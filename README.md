@@ -4,7 +4,7 @@
 PacMen images are dynamically added to the screen. Each image moves according to a unique, random velocity. Images bounce off the boundaries of the windo. The image source changes dynamically to show the PacMan changing direction.
 
 ## How to Run
-Buttons will load upon the window loading. Click the "Start Game" button, and then the "Add PacMan" button to add moving PacMen images. This sequence can be reversed; clicking "Add PacMan" first will result in a still PacMan, and clicking "Start Game" will cause the image to start moving. "Add PacMan" can be clicked repeatedly to add more images. Click "Clear Game" to clear the image(s) and reload the page.
+Buttons will load upon the window loading at this [webpage] (https://emilylubkert.github.io/PacMen-Factory/). Click the "Start Game" button, and then the "Add PacMan" button to add moving PacMen images. This sequence can be reversed; clicking "Add PacMan" first will result in a still PacMan, and clicking "Start Game" will cause the image to start moving. "Add PacMan" can be clicked repeatedly to add more images. Click "Clear Game" to clear the image(s) and reload the page.
 
 ## Roadmap of future improvements 
 - Add resizable boundary to hold PacMen
